@@ -14,4 +14,6 @@ router_products.get('/', async (c) => {
   return c.json({ message: 'Hello from products!', products })
 })
 
+ajksljdklasjkdlajsd
+
 export default router_products

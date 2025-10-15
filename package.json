@@ -1,5 +1,5 @@
 {
-  "name": "hono-app",
+  "name": "hono-app-1106423",
   "scripts": {
     "dev": "bun run --hot src/index.ts"
   },
