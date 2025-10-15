@@ -14,6 +14,9 @@ router_products.get('/', async (c) => {
   return c.json({ message: 'Hello from products!', products })
 })
 
-ajksljdklasjkdlajsd
+router_products.post('/', async (c) => {
+  const products = await prisma.user.findMany()
+  return c.json({ message: 'Hello from products!', products })
+})
 
 export default router_products

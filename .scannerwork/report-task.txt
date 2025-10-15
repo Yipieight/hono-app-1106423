@@ -2,5 +2,5 @@ projectKey=Software-1106423
 serverUrl=http://localhost:9000
 serverVersion=25.10.0.114319
 dashboardUrl=http://localhost:9000/dashboard?id=Software-1106423
-ceTaskId=6cead263-4620-4700-a9b5-8ce1b4f1ca96
-ceTaskUrl=http://localhost:9000/api/ce/task?id=6cead263-4620-4700-a9b5-8ce1b4f1ca96
+ceTaskId=e6d3d08f-c257-40ed-b099-2b001355a7d2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e6d3d08f-c257-40ed-b099-2b001355a7d2
