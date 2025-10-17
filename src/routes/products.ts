@@ -20,3 +20,6 @@ router_products.post('/', async (c) => {
 })
 
 export default router_products
+
+
+asdjlasljkdaskljadsjkldasjkladsjkladsljk
